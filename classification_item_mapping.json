@@ -1,0 +1,44 @@
+{
+  "Badetuch": {
+    "item_code": null,
+    "item_name": null,
+    "status": "needs_mapping",
+    "candidates": []
+  },
+  "BMW Ersatzteil": {
+    "item_code": null,
+    "item_name": null,
+    "status": "needs_mapping",
+    "candidates": []
+  },
+  "Charger": {
+    "item_code": null,
+    "item_name": null,
+    "status": "needs_mapping",
+    "candidates": []
+  },
+  "Dymo": {
+    "item_code": null,
+    "item_name": null,
+    "status": "needs_mapping",
+    "candidates": []
+  },
+  "Jasskarten": {
+    "item_code": null,
+    "item_name": null,
+    "status": "needs_mapping",
+    "candidates": []
+  },
+  "Mints": {
+    "item_code": null,
+    "item_name": null,
+    "status": "needs_mapping",
+    "candidates": []
+  },
+  "Schokolade": {
+    "item_code": null,
+    "item_name": null,
+    "status": "needs_mapping",
+    "candidates": []
+  }
+}

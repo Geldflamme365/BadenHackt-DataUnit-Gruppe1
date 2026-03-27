@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+
+runs/
+classification_dataset/
+multi_detection_dataset/
+train_stdout.log
+train_stderr.log
+bilder_contact_sheet.jpg
+bilder_group_*.jpg
+
+yolo11n.pt
+yolo11n-cls.pt
+
+yolo_dataset/
+yolo_dataset_local.yaml
